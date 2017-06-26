@@ -7,3 +7,13 @@ html {
 h1, h2, h3 {
   color: white;
 }
+
+a:link, a:visited, a:hover, a:active {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
+}
